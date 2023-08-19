@@ -17,7 +17,7 @@ import { CryptoState } from "../CryptoContext";
 const useStyles = makeStyles((theme) => ({
   title: {
     flex: 1,
-    color: "gold",
+    color: "#88bbd6",
     fontFamily: "Montserrat",
     fontWeight: "bold",
     cursor: "pointer",
@@ -62,6 +62,9 @@ function Header() {
             >
               <MenuItem value={"USD"}>USD</MenuItem>
               <MenuItem value={"EUR"}>EUR</MenuItem>
+              <MenuItem value={"JPY"}>JPY</MenuItem>
+              <MenuItem value={"GBP"}>GBP</MenuItem>
+              <MenuItem value={"KRW"}>KRW</MenuItem>
             </Select>
           </Toolbar>
         </Container>
