@@ -3,7 +3,16 @@
 Web application that allows users to search and track Cryptocurrencies and view their current/past histories.
 
 ## <a href="https://stevens-crypto-tracker.netlify.app/"> Deployed on Netlify </a>
-_App is hosted on a free Netlify server. Please allow a few seconds for it to spin up. Also, we have limited Coingecko API queries. Refreshing too much could cause app to start lagging._
+_App is hosted on a free Netlify server. Please allow a few seconds for it to spin up. Also, we have a limited amount of Coingecko API queries. Refreshing too much could cause the app to start lagging._
+
+Home Page</br>
+<img src="images/crypto_page_1.PNG" width="800"></br>
+
+Details Page</br>
+<img src="images/crypto_page_2.PNG" width="800"></br>
+
+Mobile Responsive</br>
+<img src="images/crypto_page_3.PNG" width="800"></br>
 
 ## Tech-Stack
 
